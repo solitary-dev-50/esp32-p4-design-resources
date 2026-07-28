@@ -1,0 +1,16 @@
+# Files downloaded by tools/fetch_official_kicad.py
+/downloads/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local CAD exports
+*.f3d
+*.f3z
+*.step
+*.stp
+*.obj
+*.wrl
+
+# Keep intentional, reviewed CAD assets by force-adding them with attribution.
